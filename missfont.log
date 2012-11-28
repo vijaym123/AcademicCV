@@ -1,0 +1,4 @@
+mktextfm ubuntu
+mktextfm sans-serif
+mktextfm serif
+mktextfm CMR10
